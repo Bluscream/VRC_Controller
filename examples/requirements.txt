@@ -1,0 +1,2 @@
+# vrc-controller
+git+https://github.com/Bluscream/VRC_Controller.git@patch-1#egg=vrc_controller
